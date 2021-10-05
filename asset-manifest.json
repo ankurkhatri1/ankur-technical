@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/ankur-technical/static/css/main.700af2bd.chunk.css",
+    "main.js": "/ankur-technical/static/js/main.ed429cf4.chunk.js",
+    "main.js.map": "/ankur-technical/static/js/main.ed429cf4.chunk.js.map",
+    "runtime-main.js": "/ankur-technical/static/js/runtime-main.bda84a43.js",
+    "runtime-main.js.map": "/ankur-technical/static/js/runtime-main.bda84a43.js.map",
+    "static/js/2.6016360e.chunk.js": "/ankur-technical/static/js/2.6016360e.chunk.js",
+    "static/js/2.6016360e.chunk.js.map": "/ankur-technical/static/js/2.6016360e.chunk.js.map",
+    "static/js/3.c08b82cf.chunk.js": "/ankur-technical/static/js/3.c08b82cf.chunk.js",
+    "static/js/3.c08b82cf.chunk.js.map": "/ankur-technical/static/js/3.c08b82cf.chunk.js.map",
+    "index.html": "/ankur-technical/index.html",
+    "static/css/main.700af2bd.chunk.css.map": "/ankur-technical/static/css/main.700af2bd.chunk.css.map",
+    "static/js/2.6016360e.chunk.js.LICENSE.txt": "/ankur-technical/static/js/2.6016360e.chunk.js.LICENSE.txt",
+    "static/media/About.d4440290.jpg": "/ankur-technical/static/media/About.d4440290.jpg",
+    "static/media/Software-Development.a921e3bd.jpg": "/ankur-technical/static/media/Software-Development.a921e3bd.jpg",
+    "static/media/Web Dev-Blog.f9fd0197.png": "/ankur-technical/static/media/Web Dev-Blog.f9fd0197.png",
+    "static/media/developerone.469c8ee9.jpg": "/ankur-technical/static/media/developerone.469c8ee9.jpg",
+    "static/media/man.53e6fc45.png": "/ankur-technical/static/media/man.53e6fc45.png",
+    "static/media/marketingmana.1ec3cf81.jpg": "/ankur-technical/static/media/marketingmana.1ec3cf81.jpg",
+    "static/media/whatsap.503375c0.svg": "/ankur-technical/static/media/whatsap.503375c0.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bda84a43.js",
+    "static/js/2.6016360e.chunk.js",
+    "static/css/main.700af2bd.chunk.css",
+    "static/js/main.ed429cf4.chunk.js"
+  ]
+}
