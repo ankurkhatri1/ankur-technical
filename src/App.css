@@ -40,10 +40,7 @@ border-bottom: 2px solid black;}
 body{
   background: linear-gradient( rgb(211, 218, 181))
 }
-@keyframes animate{from{
-  transform:rotate(0deg);}to{
-    transform: rotate(360deg);
-  }}
+
 @media  (max-width: 974px) {
   #header{
     height: 80vh; 
