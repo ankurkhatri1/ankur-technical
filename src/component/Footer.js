@@ -1,5 +1,5 @@
 import React from 'react'
-import whatsapp from '../images/whatsap.svg'
+
 
 function Footer() {
     return (
